@@ -1,4 +1,4 @@
-cat << 'EOF' > README.md
+
 # 🍣 Sushi-Project | Restoran Web Sitesi
 
 ---
